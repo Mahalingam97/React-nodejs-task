@@ -18,7 +18,7 @@ export default class EmojiResults extends PureComponent {
   }
 
   render() {
-    const emojiData=Array.from(this.props.emojiData);
+    const emojiData=this.props.emojiData;
     return (
       <div className="component-emoji-results">
         {emojiData.map(emojiData => (
