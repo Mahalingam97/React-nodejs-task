@@ -1,0 +1,108 @@
+[
+  {
+    "title": "Grape",
+    "symbol": "🍇",
+    "keywords":
+      "A grape bunch, as cut from the vine and used to make wine. Depicted as red (purple-colored) grapes."
+  },
+  {
+    "title": "Melon",
+    "symbol": "🍈",
+    "keywords": "A melon fruit in a light greenish-brown rind. Depicted as a cantaloupe by most platforms, but can resemble a honeydew at a distance."
+  },
+  {
+    "title": "WaterMelon",
+    "symbol": "🍉",
+    "keywords":"A slice of watermelon, showing its rich pink flesh, black seeds, and green rind."
+  },
+  {
+    "title": "Tangerine",
+    "symbol": "🍊",
+    "keywords": "An orange-colored citrus fruit with a green leaf or leaves and stem."
+  },
+  {
+    "title": "Lemon",
+    "symbol": "🍋",
+    "keywords":
+     "The sour, yellow-colored citrus fruit of the lemon, usually with a stem and green leaf or leaves."
+  },
+  {
+    "title": "Banana",
+    "symbol": "🍌",
+    "keywords":
+      "A ripe banana, peeled and ready to eat on major platforms. Great snack for a child or monkey"
+  },
+  {
+    "title": "Pineapple",
+    "symbol": "🍍",
+    "keywords":
+      "The tropical fruit of a pineapple, shown in spiky, golden-brown skin and with a pointed, green crown"
+  },
+  {
+    "title": "Mango",
+    "symbol": "🥭",
+    "keywords":
+      "The ripe fruit of a tropical mango. Variously depicted in shades of yellow, red, orange, and green with a single, green leaf and stem."
+  },
+  {
+    "title": "Red Apple",
+    "symbol": "🍎",
+    "keywords":
+      "A classic red apple, shown with a stem and single, green leaf on major platforms"
+  },
+  {
+    "title": "Green Apple",
+    "symbol": "🍏",
+    "keywords":
+      "A common green apple, tarter counterpart to the Red Apple. Displayed with a stem and single, green leaf on major platforms."
+  },
+  {
+    "title": "Pear",
+    "symbol": "🍐",
+    "keywords": "A light-green variety of a common pear, shown with a stem and sometimes green leaf."
+  },
+  {
+    "title": "Peach",
+    "symbol": "🍑",
+    "keywords": "The fleshy, pinkish-orange fruit of the fuzzy peach, shown with green leaves and sometimes a stem."
+  },
+  {
+    "title": "Cherries",
+    "symbol": "🍒",
+    "keywords":"Two rich red cherries with a green leaf and joined at their long stems"
+  },
+  {
+    "title": "Strawberry",
+    "symbol": "🍓",
+    "keywords": "The fruit of a rich red strawberry dotted with seeds and crowned with green leaves"
+  },
+  {
+    "title": "Kiwi Fruit",
+    "symbol": "🥝",
+    "keywords": "A kiwifruit, or Chinese gooseberry, with its fuzzy, brown skin sliced open to show its light-green flesh, white core, and black seeds. "
+  },
+  {
+    "title": "Tomato",
+    "symbol": "🍅",
+    "keywords":"A plump, red garden tomato topped with a leafy green stem"
+  },
+  {
+    "title": "coconut",
+    "symbol": "🥥",
+    "keywords": "The hairy shell of a tropical coconut, cracked in a half to show its milky-white meat."
+  },
+  {
+    "title": "Carrot",
+    "symbol": "🥕",
+    "keywords":"A whole, bright orange carrot, topped with long green leaves, as if freshly plucked from the garden"
+  },
+  {
+    "title": "Ear of Corn",
+    "symbol": "🌽",
+    "keywords": "An ear of corn, or maize, partially husked to show its buttery-yellow kernels."
+  },
+{
+  "title":"Avacado",
+  "symbol":"🥑",
+  "keywords":"A pear-shaped avocado, sliced in half to show its yellow-green flesh and large brown pit"
+}]

@@ -1,0 +1,21 @@
+import React from "react";
+import "./assests/FruitResultRow.css";
+
+export default function FruitResultsRow(props) {
+    const codePointHex = props.symbol.codePointAt(0).toString(16);
+    const code=props.symbol.codePointAt(0);
+    const src = `//cdn.jsdelivr.net/emojione/assets/png/${codePointHex}.png`;
+    console.log(codePointHex);
+    console.log(code);
+    return (
+      <div
+        className="component-fruit-result-row copy-to-clipboard"
+        data-clipboard-text={props.symbol}
+       >
+        <img alt={props.title} src={src} />
+        <span className="title">{props.title}</span>
+        <span className="info">Click to copy fruit</span>
+      </div>
+    );
+  }
+

@@ -1,7 +1,7 @@
 import express ,{ Request,Response, NextFunction, response } from "express";
 
 const router = express.Router(); 
-var datas=require('./emojiList.json');
+var datas=require('./fruitList.json');
 
 router.get('/search', (request:Request,response:Response,next:NextFunction) => {
     try{
