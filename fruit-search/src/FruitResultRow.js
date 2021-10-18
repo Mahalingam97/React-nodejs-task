@@ -3,10 +3,7 @@ import "./assests/FruitResultRow.css";
 
 export default function FruitResultsRow(props) {
     const codePointHex = props.symbol.codePointAt(0).toString(16);
-    const code=props.symbol.codePointAt(0);
     const src = `//cdn.jsdelivr.net/emojione/assets/png/${codePointHex}.png`;
-    console.log(codePointHex);
-    console.log(code);
     return (
       <div
         className="component-fruit-result-row copy-to-clipboard"
