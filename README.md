@@ -18,19 +18,16 @@
 
 ```
 npm start
-
 ```
 
 - Run API with below command 
 
 ```
 npm run dev
-
 ```
 
 - Run Fruit-search with below command
 
 ```
 npm start
-
 ```
