@@ -14,6 +14,13 @@
 
 - Fruit-search is our front end application.
 
+- Use below command to install node modules.
+
+```
+npm start
+
+```
+
 - Run API with below command 
 
 ```
