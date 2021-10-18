@@ -8,7 +8,7 @@
 
 > A simple fruit emoji search application which can be used for search and copy emojis.
 
-<h4>Executing Program</h4>
+### Executing Program
 
 - API folder is for running our server for application.
 
