@@ -25,7 +25,8 @@ npm start
 ```
 npm run dev
 ```
-
+  It can be viewed in [http://localhost:5000/search](http://localhost:5000/search).
+  
 - Run Fruit-search with below command
 
 ```
