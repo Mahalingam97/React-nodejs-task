@@ -17,7 +17,7 @@
 - Use below command to install node modules.
 
 ```
-npm start
+npm install
 ```
 
 - Run API with below command 
@@ -25,7 +25,7 @@ npm start
 ```
 npm run dev
 ```
-  It can be viewed in [http://localhost:5000/search](http://localhost:5000/search).
+  open [http://localhost:5000/search](http://localhost:5000/search) to view  in your browser.
   
 - Run Fruit-search with below command
 
